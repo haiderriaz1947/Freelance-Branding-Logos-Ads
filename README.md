@@ -61,6 +61,15 @@ Each design was created based on specific client requirements, industry relevanc
 
 ---
 
+## 📢 Promotional Ad Designs
+
+The following ad creatives were designed for social media and marketing platforms, tailored to each brand’s identity. These visual designs follow consistent typography, color schemes, and messaging.
+
 ## ⚠ Design & Copyright Notice
 All designs were developed using **original concepts** and comply with copyright and intellectual property standards.  
 This project is shared for **portfolio and showcase purposes only**.
+
+📄 **Project Brief:**  
+[Full original project requirements PDF](icreon%20project%20one%20(1).pdf)
+
+
